@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Name: creatingautopilotbean/AutoPilotBean.class
+Java-Bean: True
+
